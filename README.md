@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on not one thing 🤪<br><br>🌱 I’m currently learning  ML, AI, Unity, AWS<br><br>🤝 I’m looking for help with Everything 😜<br><br>👨‍💻 All of my projects are available at https://github.com/AnurangaMadushan</p>
+<p align="left">🔭 I’m currently working on not one thing 🤪<br><br>🌱 I’m currently learning  ML, AI, Unity, AWS<br><br>🤝 I’m looking for help with Everything 😜<br><br>👨‍💻 All of my projects are available at https://github.com/AnurangaMadushan<br><br>🎮 Hobbies: I enjoy gaming and watching anime</p>
 
 ###
 
